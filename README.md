@@ -1,2 +1,2 @@
-# css-grid
-CSS Grid Layout (aka “Grid” or “CSS Grid”), is a two-dimensional grid-based layout system. See this example to understand CSS Grid
+# CSS Grid
+CSS Grid Layout (often called Grid or CSS Grid) is a powerful two-dimensional layout system that lets you arrange content into rows and columns. Check out this example to see how CSS Grid works.
